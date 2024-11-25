@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "DeskScreen",
+      "icon": "https://cdn.discordapp.com/attachments/1302171658458763294/1310476475253653524/DeskScreen.png?ex=67455bd3&is=67440a53&hm=a401660795a84d2408b7209e2957b08259636fe761963cbec6e50f430fac43cf&",
+      "path": "https://cdn.discordapp.com/attachments/1302171658458763294/1302171659406409759/DeskScreenAlpha9.apk?ex=6744cf1c&is=67437d9c&hm=4bf23ff89c70f0f6953bab19d911b58f5c0ea7e21e0fb5b925e0e4a9d255df2a&"
+    },
+    {
+      "name": "App 2",
+      "icon": "https://raw.githubusercontent.com/username/repo/main/assets/app2_icon.png",
+      "path": "https://raw.githubusercontent.com/username/repo/main/apps/App2.zip"
+    }
+  ]
+}
